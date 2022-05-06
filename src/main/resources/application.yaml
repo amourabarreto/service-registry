@@ -3,4 +3,4 @@ spring:
     name: ead-service-registry
   config:
     activate:
-      on-profile: dev
+      on-profile: prod
